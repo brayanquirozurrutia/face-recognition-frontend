@@ -104,4 +104,6 @@ face-recognition-frontend/
 - `npm test`: Run tests (if implemented).
 - `npm run lint`: Check for linting errors.
 
+## Author
+
 Developed with ❤️ by [Brayan Nicolas Quiroz Urrutia](https://github.com/brayanquirozurrutia).
